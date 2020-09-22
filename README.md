@@ -8,7 +8,7 @@ Presentation       : [Slide Deck]()
 # Data
 The dataset is obtained from [data.gov](https://catalog.data.gov/sv/dataset/liquor-licenses-5a0dc). It is provided by the [Baltimore City Liquor License Board](https://data.baltimorecity.gov/City-Services/Restaurants-Bars-and-Taverns-in-21224/wdpa-2rxb) and describes the Baltimore County Liquor License Status from 2003 - 2017. It includes 20.8K observations and 19 columns. 
 
-![Year](License per Year.png)
+![Year](License_per_Year.png)
 # Results
 Explained variance: 75%
 
