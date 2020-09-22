@@ -2,7 +2,7 @@
 # Overview
 I am using the Baltimore County Liquor License to create a model for predicting ZipCodes according to other data. For example: if you specify fees, then it can give you zipcode related to that cost. It is efficient to predict correctly 75% of the time.
 # Repository Navigation
-Code               : [Notebooks](http://github.com)
+Code               : [Notebooks](https://github.com/sanashar/Liquor_License_OH63534/tree/master/notebook)
 
 Presentation       : [Slide Deck]()
 # Data
