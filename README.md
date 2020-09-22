@@ -3,10 +3,21 @@
 I am using the Baltimore County Liquor License to create a model for predicting ZipCodes according to other data. For example: if you specify fees, then it can give you zipcode related to that cost. It is efficient to predict correctly 75% of the time.
 # Repository Navigation
 Code               : [Notebooks](http://github.com)
+
 Presentation       : [Slide Deck]()
 # Data
 The dataset is obtained from [data.gov](https://catalog.data.gov/sv/dataset/liquor-licenses-5a0dc). It is provided by the [Baltimore City Liquor License Board](https://data.baltimorecity.gov/City-Services/Restaurants-Bars-and-Taverns-in-21224/wdpa-2rxb) and describes the Baltimore County Liquor License Status from 2003 - 2017. It includes 20.8K observations and 19 columns. 
 
 ![Year](License per Year.png)
-# Analysis
+# Results
+Explained variance: 75%
 
+The model can predict ZipCodes related to any other data with 75% accuracy
+# Project Info
+DATA 602 Assignment 1 - Sana Sharma
+
+Languages    : Python
+
+Tools/IDE    : Anaconda
+
+Libraries    : pandas, matplotlib, statsmodels, sklearn
