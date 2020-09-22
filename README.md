@@ -5,4 +5,4 @@
 ## Example
 * Example 1 
 * eg 2
-![graph](C:\Users\sanas\OneDrive\Pictures\Screenshots)
+![ScreenShot](Screenshot.png)
