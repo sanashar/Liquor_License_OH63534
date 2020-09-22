@@ -6,7 +6,9 @@ Code               : [Notebooks](https://github.com/sanashar/Liquor_License_OH63
 
 Presentation       : [Summary Report](https://github.com/sanashar/Liquor_License_OH63534/blob/master/Data602_Assignment1_SummaryReport.pdf)
 # Data
+
 The dataset is obtained from [data.gov](https://catalog.data.gov/sv/dataset/liquor-licenses-5a0dc). It is provided by the [Baltimore City Liquor License Board](https://data.baltimorecity.gov/City-Services/Restaurants-Bars-and-Taverns-in-21224/wdpa-2rxb) and describes the Baltimore County Liquor License Status from 2003 - 2017. It includes 20.8K observations and 19 columns. 
+[Datafiles](http://github.com/sanashar/Liquor_License_OH63534/tree/master/data)
 
 ![Year](https://github.com/sanashar/Liquor_License_OH63534/blob/master/images/License_per_Year.png)
 # Results
